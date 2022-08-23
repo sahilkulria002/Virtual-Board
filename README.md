@@ -4,7 +4,7 @@
 ## Download and Run
 Put both python files in same directory
 Installed required libraries 
-Run "camAboard.py" file
+Run "camAboard.py" file 
 
 ## How to use
 Hands in camera frame will be detected
