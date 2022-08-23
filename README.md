@@ -3,7 +3,7 @@
 
 ## Download and Run
 Put both python files in same directory
-Installed required libraries
+Installed required libraries 
 Run "camAboard.py" file
 
 ## How to use
